@@ -1,2 +1,2 @@
 # Python
-data science project
+Maze Game in python
